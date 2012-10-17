@@ -9,6 +9,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/gapps/app/GoogleFeedback.apk:system/app/GoogleFeedback.apk \
     vendor/google/gapps/app/GoogleLoginService.apk:system/app/GoogleLoginService.apk \
     vendor/google/gapps/app/GooglePartnerSetup.apk:system/app/GooglePartnerSetup.apk \
+    vendor/google/gapps/app/GooglePlayMusic.apk:system/app/GooglePlayMusic.apk \
     vendor/google/gapps/app/GoogleQuickSearchBox.apk:system/app/GoogleQuickSearchBox.apk \
     vendor/google/gapps/app/GoogleServicesFramework.apk:system/app/GoogleServicesFramework.apk \
     vendor/google/gapps/app/GoogleTTS.apk:system/app/GoogleTTS.apk \
