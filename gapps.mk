@@ -1,7 +1,3 @@
-# /system/addon.d
-PRODUCT_COPY_FILES += \
-    vendor/google/gapps/addon.d/70-gapps.sh:system/addon.d/70-gapps.sh
-
 # /system/app
 PRODUCT_COPY_FILES += \
     vendor/google/gapps/app/ChromeBookmarksSyncAdapter.apk:system/app/ChromeBookmarksSyncAdapter.apk \
