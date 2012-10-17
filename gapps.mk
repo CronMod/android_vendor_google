@@ -22,10 +22,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/gapps/app/Talk.apk:system/app/Talk.apk \
     vendor/google/gapps/app/VoiceSearch.apk:system/app/VoiceSearch.apk
 
-# /system/etc
-PRODUCT_COPY_FILES += \
-    vendor/google/gapps/etc/g.prop:system/etc/g.prop
-
 # /system/etc/permissions
 PRODUCT_COPY_FILES += \
     vendor/google/gapps/etc/permissions/com.google.android.maps.xml:system/etc/permissions/com.google.android.maps.xml \
